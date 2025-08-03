@@ -4,4 +4,4 @@ Project Description The Sorting Visualizer is an interactive web application des
 
 Features Interactive Interface: User-friendly design for easy interaction. Multiple Algorithms: Supports Bubble Sort, Quick Sort, Merge Sort, and more. Customization: Users can adjust the size of the array and the sorting speed. Real-time Visualization: Watch sorting algorithms in action with animations.
 
-Take a look at live version: (https://hamzakhan-786.github.io/Sort_Visualizer/)
+Take a look at live version: ((https://sumit12356789.github.io/Sorting-Visualizer/))
